@@ -1,0 +1,6 @@
+F:\C#Socket\TestSocket\TestSocket\bin\Debug\TestSocket.exe.config
+F:\C#Socket\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+F:\C#Socket\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+F:\C#Socket\TestSocket\TestSocket\obj\Debug\TestSocket.csprojResolveAssemblyReference.cache
+F:\C#Socket\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+F:\C#Socket\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
